@@ -1,3 +1,12 @@
+'''
+A solution to a ROSALIND bioinformatics problem.
+
+Problem Title: Rabbits and Recurrence Relations
+Rosalind ID: FIB
+Rosalind #: 004
+URL: http://rosalind.info/problems/fib/
+'''
+
 def rabbit_pairs(n, k):
     if n == 1 or n == 2:
         return 1
