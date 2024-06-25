@@ -1,5 +1,12 @@
-## DNA and Genomic toolkits developed with Python.
-* Rosalind problems
-* DNA toolkit: Counting nucleotides, Transcription, Reverse Compliment, GC-content calculations, Translating DNA into amino acids, and Finding proteins in DNA Sequence.
-* Genomic toolkit: Seach for k-mers, to be continued!
+# Rosalind Bioinformatics #
 
+### Description
+---
+My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python.
+
+Rosalind Website: [http://www.rosalind.info](http://www.rosalind.info)
+
+My Rosalind Profile: https://rosalind.info/users/farnoosh.oa/
+
+### Repository Structure
+---
