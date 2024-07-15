@@ -1,12 +1,3 @@
-'''
-A solution to a ROSALIND bioinformatics problem.
-
-Problem Title: Computing GC Content
-Rosalind ID: GC
-Rosalind #: 005
-URL: http://rosalind.info/problems/gc/
-'''
-
 def highest_gc_content(fasta_data):
     sequences = {}  
     current_id = ""  

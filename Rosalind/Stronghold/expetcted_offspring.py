@@ -1,3 +1,11 @@
+'''
+A solution to a ROSALIND bioinformatics problem.
+
+Problem Title: Calculating Expected Offspring
+Rosalind ID: IEV
+Rosalind #: 013
+URL: http://rosalind.info/problems/iev/
+'''
 def calculate_expected_offspring(AA_AA, AA_Aa, AA_aa, Aa_Aa, Aa_aa, aa_aa):
     # Calculate the expected number of dominant offspring for each genotype
     expected_AA_AA = AA_AA * 2 * 1  # 2 offspring, both dominant

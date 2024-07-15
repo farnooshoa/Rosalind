@@ -1,11 +1,3 @@
-'''
-A solution to a ROSALIND bioinformatics problem.
-
-Problem Title: Translating RNA into Protein
-Rosalind ID: PROT
-Rosalind #: 008
-URL: http://rosalind.info/problems/prot/
-'''
 def rna_to_protein(rna_string):
     # Define the RNA codon table
     codon_table = {

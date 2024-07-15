@@ -1,11 +1,3 @@
-'''
-A solution to a ROSALIND bioinformatics problem.
-
-Problem Title: Counting Point Mutations
-Rosalind ID: HAMM
-Rosalind #: 006
-URL: http://rosalind.info/problems/hamm/
-'''
 def hamming_distance (s,t):
 
     distance = sum(c1 != c2 for c1, c2 in zip(s, t))

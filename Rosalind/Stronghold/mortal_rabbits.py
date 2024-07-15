@@ -1,3 +1,11 @@
+'''
+A solution to a ROSALIND bioinformatics problem.
+
+Problem Title: Mortal Fibonacci Rabbits
+Rosalind ID: FIBD
+Rosalind #: 011
+URL: http://rosalind.info/problems/fibd/
+'''
 import numpy as np
 
 def rabbit_pairs_dynamic(n, m):

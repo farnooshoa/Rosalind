@@ -1,11 +1,3 @@
-'''
-A solution to a ROSALIND bioinformatics problem.
-
-Problem Title: Mendel's First Law
-Rosalind ID: IPRB
-Rosalind #: 007
-URL: http://rosalind.info/problems/iprb/
-'''
 def dominant_probability(k, m, n):
     total_population = k + m + n
     next_population = total_population - 1

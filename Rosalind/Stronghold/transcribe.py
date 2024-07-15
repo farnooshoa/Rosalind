@@ -1,11 +1,3 @@
-'''
-A solution to a ROSALIND bioinformatics problem.
-
-Problem Title: Transcribing DNA into RNA
-Rosalind ID: RNA
-Rosalind #: 002
-URL: http://rosalind.info/problems/rna/
-'''
 def transcribe(sequence):
     return sequence.replace('T', 'U')
 

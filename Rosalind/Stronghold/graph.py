@@ -1,3 +1,11 @@
+'''
+A solution to a ROSALIND bioinformatics problem.
+
+Problem Title: Overlap Graphs
+Rosalind ID: GRPH
+Rosalind #: 012
+URL: http://rosalind.info/problems/grph/
+'''
 def generate_overlap_graph(dna_sequences, k):
     overlap_graph = []
 

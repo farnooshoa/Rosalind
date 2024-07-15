@@ -1,3 +1,11 @@
+'''
+A solution to a ROSALIND bioinformatics problem.
+
+Problem Title: Consensus and Profile
+Rosalind ID: SUBS
+Rosalind #: 009
+URL: http://rosalind.info/problems/subs/
+'''
 def motif(fasta_data):
     sequences = []
     current_sequence = ""
